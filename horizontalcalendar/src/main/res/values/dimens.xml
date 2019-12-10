@@ -1,0 +1,78 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">200dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="layout_big_margin">30dp</dimen>
+    <dimen name="layout_medium_margin">20dp</dimen>
+    <dimen name="layout_small_margin">10dp</dimen>
+    <dimen name="layout_very_small_margin">5dp</dimen>
+    <dimen name="text_very_small">14sp</dimen>
+    <dimen name="text_tiny">12sp</dimen>
+    <dimen name="text_small">16sp</dimen>
+    <dimen name="text_medium">18sp</dimen>
+    <dimen name="text_large">20sp</dimen>
+    <dimen name="text_very_large">24dp</dimen>
+    <dimen name="medium_padding">10dp</dimen>
+    <dimen name="medium_large_padding">15dp</dimen>
+    <dimen name="small_padding">5dp</dimen>
+    <dimen name="large_padding">20dp</dimen>
+    <dimen name="card_album_radius">5dp</dimen>
+    <dimen name="activityPadding">16dp</dimen>
+    <dimen name="placeholderImage">60dp</dimen>
+    <dimen name="placeholderTextHeight">8dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <!--CardView Margin-->
+    <dimen name="cardview_margin">23dp</dimen>
+    <!--genaral spacing-->
+    <dimen name="spacing_xsmall">2dp</dimen>
+    <dimen name="spacing_small">3dp</dimen>
+    <dimen name="spacing_medium">5dp</dimen>
+    <dimen name="spacing_xmedium">7dp</dimen>
+    <dimen name="spacing_middle">10dp</dimen>
+    <dimen name="spacing_large">15dp</dimen>
+    <dimen name="spacing_smlarge">18dp</dimen>
+    <dimen name="spacing_mlarge">20dp</dimen>
+    <dimen name="spacing_mxlarge">25dp</dimen>
+    <dimen name="spacing_xlarge">35dp</dimen>
+    <dimen name="spacing_xmlarge">40dp</dimen>
+    <dimen name="spacing_xxlarge">50dp</dimen>
+    <dimen name="spacing_xxxlarge">55dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="image_height">50dp</dimen>
+    <dimen name="badge_height">70dp</dimen>
+
+
+    <dimen name="size_avatar_toolbar">40dp</dimen>
+    <dimen name="spacing_double">16dp</dimen>
+    <dimen name="elevation_header">4dp</dimen>
+
+
+    <!--Dots-->
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_margin_bottom">20dp</dimen>
+    <dimen name="img_width_height">120dp</dimen>
+    <dimen name="slide_title">30dp</dimen>
+    <dimen name="slide_desc">16dp</dimen>
+    <dimen name="desc_padding">40dp</dimen>
+
+    <!--Data Of View Folder-->
+    <dimen name="frame_padding">8dp</dimen>
+    <dimen name="frame_line_width">1dp</dimen>
+    <dimen name="frame_text_size">14sp</dimen>
+
+    <dimen name="line_width">3dp</dimen>
+    <dimen name="radius">6dp</dimen>
+    <dimen name="iner_radius">5dp</dimen>
+
+    <dimen name="text_very_very_large">34dp</dimen>
+
+    <dimen name="arc_line_height">25dp</dimen>
+    <dimen name="arc_line_width">2dp</dimen>
+    <dimen name="cardBigElevation">10dp</dimen>
+    <dimen name="blogWidth">500dp</dimen>
+    <dimen name="blogHeight">250dp</dimen>
+</resources>
